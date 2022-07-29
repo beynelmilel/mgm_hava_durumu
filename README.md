@@ -1,16 +1,20 @@
-# mgm_hava_durumu
+<details>
+<summary>English</summary>
 
-A new Flutter project.
+# MGM Weather Forecast
 
-## Getting Started
+A Flutter application for checking weather which uses [Meteoroloji Genel Müdürlüğü](https://servis.mgm.gov.tr/web/merkezler?il=Trabzon)
+API.
 
-This project is a starting point for a Flutter application.
+Is the weather too hot?
+</details>
+<details>
+<summary>Türkçe</summary>
 
-A few resources to get you started if this is your first Flutter project:
+# MGM Hava Tahmini
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Meteoroloji Genel Müdürlüğü](https://servis.mgm.gov.tr/web/merkezler?il=Trabzon)
+Uygulama Geliştirme Arayüzünü (API) kullanan bir Flutter Hava Durumu uygulaması.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hava çok mu sıcak?
+</details>
